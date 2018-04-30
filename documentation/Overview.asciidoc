@@ -14,9 +14,9 @@ by using HTML Templates for composing the UI and binding it to any backend using
 
 The power of Vaadin Flow comes from the following concepts:
 
-* A set of beautiful UI components build with focus on end-user and developer experience
+* A set of beautiful UI components built with focus on end-user and developer experience
 * Powerful abstraction layers for easily building your own reusable UI components with either Java or HTML templates
-* Data Binding API for connecting the UI components to any backend using type safe Java
+* Data Binding API for connecting the UI components to any backend using type-safe Java
 * Router API for easily creating hierarchical page structures for the user to navigate
 
 This is the documentation for Vaadin Flow. It is divided into the following subsections in recommended reading order.
@@ -27,7 +27,7 @@ This is the documentation for Vaadin Flow. It is divided into the following subs
 
 == Router and Navigation
 Router is a core concept in Vaadin Flow, enabling Navigation for your website or web app.
-It is based on HTML5 History API, and makes it possible to for the user to navigate pages back and forward,
+It is based on the HTML5 History API, and makes it possible for the user to navigate pages backward and forward,
 and keep the page state intact. The following tutorials explain how to use the Router:
 
 * <<routing/tutorial-routing-annotation#,Defining Routes with @Route>>
